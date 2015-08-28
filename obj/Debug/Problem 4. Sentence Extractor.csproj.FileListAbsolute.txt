@@ -1,0 +1,11 @@
+C:\Users\webmo_000\Desktop\SoftuniHomework\RegularExpressionsHomework\Problem 4. Sentence Extractor\bin\Debug\Problem_4.Sentence_Extractor.exe.config
+C:\Users\webmo_000\Desktop\SoftuniHomework\RegularExpressionsHomework\Problem 4. Sentence Extractor\bin\Debug\Problem_4.Sentence_Extractor.exe
+C:\Users\webmo_000\Desktop\SoftuniHomework\RegularExpressionsHomework\Problem 4. Sentence Extractor\bin\Debug\Problem_4.Sentence_Extractor.pdb
+C:\Users\webmo_000\Desktop\SoftuniHomework\RegularExpressionsHomework\Problem 4. Sentence Extractor\obj\Debug\Problem_4.Sentence_Extractor.exe
+C:\Users\webmo_000\Desktop\SoftuniHomework\RegularExpressionsHomework\Problem 4. Sentence Extractor\obj\Debug\Problem_4.Sentence_Extractor.pdb
+D:\Programming Folder\AllProjects\Problem 4. Sentence Extractor\bin\Debug\Problem_4.Sentence_Extractor.exe.config
+D:\Programming Folder\AllProjects\Problem 4. Sentence Extractor\obj\Debug\Problem_4.Sentence_Extractor.exe
+D:\Programming Folder\AllProjects\Problem 4. Sentence Extractor\obj\Debug\Problem_4.Sentence_Extractor.pdb
+D:\Programming Folder\AllProjects\Problem 4. Sentence Extractor\bin\Debug\Problem_4.Sentence_Extractor.exe
+D:\Programming Folder\AllProjects\Problem 4. Sentence Extractor\bin\Debug\Problem_4.Sentence_Extractor.pdb
+D:\Programming Folder\AllProjects\Problem 4. Sentence Extractor\obj\Debug\Problem 4. Sentence Extractor.csprojResolveAssemblyReference.cache
